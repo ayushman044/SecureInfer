@@ -1,0 +1,23 @@
+# PyTorch — install separately:
+# NVIDIA CUDA:  pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# AMD ROCm:     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.2
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+transformers
+accelerate
+peft
+huggingface_hub
+bitsandbytes
+streamlit
+plotly
+fastapi
+uvicorn
+python-multipart
+opendatasets
+kaggle
+tqdm
+requests
